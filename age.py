@@ -7,3 +7,11 @@ if age>=18:
     print('This Person is Eligible to Vote')
 else:
     print('This Person is not Eligible to Vote')
+'''
+Output:
+Enter Your Age:20
+This Person is Eligible to Vote
+
+Enter Your Age:17
+This Person is not Eligible to Vote
+'''
