@@ -32,3 +32,11 @@ for i in range(0,len(res)):
         print('Nine',end=" ")
     else:
         print('Zero',end=" ")
+'''
+Output:
+Enter Your Number:12345
+One Two Three Four Five
+
+Enter Your Number:1000
+One Zero Zero Zero
+'''
