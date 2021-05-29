@@ -7,7 +7,10 @@ i = 1
 while i<num:
 print(i)    #Raises an Indentation Error
     i += 1
-
+'''
+Output:
+Error:8 Indentation Error
+'''
 num = int(input('Enter a Number:'))
 i = 1
 while i<num:
