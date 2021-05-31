@@ -1,9 +1,9 @@
 '''
-Implement a python script to count number of words in a string and reverse each 
-word in a string at the same location.
-Example:
-Input :Honesty is the best policy.
-Output :5 ytsenoH si eht tseb ycilop.
+5.3) Implement a python script to count number of words in a string and reverse each 
+     word in a string at the same location.
+     Example:
+        Input :Honesty is the best policy.
+        Output :5 ytsenoH si eht tseb ycilop.
 '''
 string = input('Enter a String:')
 res = len(string.split(' '))
